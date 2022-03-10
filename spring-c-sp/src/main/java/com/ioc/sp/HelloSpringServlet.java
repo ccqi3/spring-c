@@ -1,4 +1,4 @@
-package com.ioc.normal;
+package com.ioc.sp;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
