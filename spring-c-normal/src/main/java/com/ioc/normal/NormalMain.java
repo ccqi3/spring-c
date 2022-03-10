@@ -1,4 +1,4 @@
-package com.spring.ioc.normal;
+package com.ioc.normal;
 
 import java.util.List;
 

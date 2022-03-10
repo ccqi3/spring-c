@@ -1,6 +1,6 @@
-package com.spring.ioc;
+package com.ioc.normal;
 
-import com.spring.ioc.normal.UserServiceImpl;
+import com.ioc.normal.UserServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
